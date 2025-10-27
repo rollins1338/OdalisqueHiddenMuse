@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./assets/Odalisque.jpg" alt="Odalisque Cover" style="max-width:100%;height:auto;" />
+  <img src="./Assets/Odalisque.jpg" alt="Odalisque Cover" style="max-width:100%;height:auto;" />
   <br>
   <em><i>Odalisque</i></em>
 </p>
