@@ -1,6 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=32&color=E8B90E&center=true&width=600&lines=The Hidden Muse&repeat=false" alt="Odalisque Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=32&color=A60000&center=true&width=600&lines=The+Hidden+Muse&repeat=false" alt="Odalisque Header" />
 </p>
+
+
+
 
 
 
